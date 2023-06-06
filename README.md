@@ -56,4 +56,4 @@ This is a change.
 ## Curating 101
 What is a curator?
 ### Caretaker
-! (Screenshot 2023-05-18 at 4.02.34 PM.png)
+![This is an artwork by Bethany Collins.](BC182_The Odyssey_2020_72(3A).jpg)
