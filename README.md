@@ -55,4 +55,4 @@ This is a change.
 
 ## Curating 101
 What is a curator?
-###Caretaker
+### Caretaker
