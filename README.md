@@ -52,3 +52,6 @@ Paragraph with **bold** text and *italicized* text.
 See also this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) for more markdown syntax.
 
 This is a change.
+
+## Curating 101
+What is a curator?
