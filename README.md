@@ -56,3 +56,4 @@ This is a change.
 ## Curating 101
 What is a curator?
 ### Caretaker
+! (Screenshot 2023-05-18 at 4.02.34 PM.png)
